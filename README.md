@@ -1,6 +1,8 @@
-# 👨🏻‍💻 Thomas Crombez
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomascrmbz&hide_title=true&show_icons=true&count_private=true&include_all_commits=true&hide_border=true)
+<h1 align="center">👨🏻‍💻 Thomas Crombez<h1/>
+<h3 align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thomascrmbz&theme=onedark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=thomascrmbz&hide_title=true&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=onedark"/>
+<h3/>
 
 ## ⚡ My Software Stack
 
@@ -14,7 +16,7 @@
 [![Vue.js](https://img.shields.io/static/v1?label=&message=Vue.js&color=4FC08D&logo=vue.js&logoColor=FFFFFF)](https://vuejs.org)
 [![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=007ACC&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=47d147&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/en/)
-<img align='right' height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomascrmbz">
+<img align='right' height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomascrmbz&theme=onedark">
 
 #### Frameworks
 
