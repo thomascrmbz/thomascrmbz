@@ -1,8 +1,8 @@
 <h1 align="center">👨🏻‍💻 Thomas Crombez<h1/>
-<h3 align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thomascrmbz&theme=onedark"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thomascrmbz&theme=onedark"/>  
   <img src="https://github-readme-stats.vercel.app/api?username=thomascrmbz&hide_title=true&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=onedark"/>
-<h3/>
+<p/>
 
 ## ⚡ My Software Stack
 
