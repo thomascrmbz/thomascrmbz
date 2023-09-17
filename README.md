@@ -1,7 +1,17 @@
 <h1 align="center">👨🏻‍💻 Thomas Crombez<h1/>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=thomascrmbz&theme=onedark"/>  
-  <img src="https://github-readme-stats.vercel.app/api?username=thomascrmbz&hide_title=true&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=onedark"/>
+  <picture>
+  <source
+    srcset="https://github-readme-stats-weld-delta-75.vercel.app/api?username=thomascrmbz&hide_title=true&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-weld-delta-75.vercel.app/api?username=thomascrmbz&hide_title=true&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-weld-delta-75.vercel.app/api?username=thomascrmbz&hide_title=true&show_icons=true" />
+</picture>
 <p/>
 
 ## ⚡ My Software Stack
@@ -16,7 +26,7 @@
 [![Vue.js](https://img.shields.io/static/v1?label=&message=Vue.js&color=4FC08D&logo=vue.js&logoColor=FFFFFF)](https://vuejs.org)
 [![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=007ACC&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=47d147&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/en/)
-<img align='right' height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomascrmbz&theme=onedark">
+<img align='right' height="240px" src="https://github-readme-stats-weld-delta-75.vercel.app/api/top-langs?username=thomascrmbz&theme=onedark&size_weight=0.5&count_weight=0.5">
 
 #### Frameworks
 
