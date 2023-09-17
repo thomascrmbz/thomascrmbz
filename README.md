@@ -18,9 +18,9 @@
 
 #### Languages
 
+[![Go](https://img.shields.io/static/v1?label=&message=Go&color=00ADD8&logo=go&logoColor=FFFFFF)](https://golang.org)
 [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=ff751a&logo=HTML5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F1E05A&logo=javascript&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Go](https://img.shields.io/static/v1?label=&message=Go&color=00ADD8&logo=go&logoColor=FFFFFF)](https://golang.org)
 [![Java](https://img.shields.io/static/v1?label=&message=Java&color=007396&logo=java&logoColor=FFFFFF)](https://www.java.com/en/)
 [![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF)](https://isocpp.org/)
 [![Vue.js](https://img.shields.io/static/v1?label=&message=Vue.js&color=4FC08D&logo=vue.js&logoColor=FFFFFF)](https://vuejs.org)
@@ -30,12 +30,13 @@
 
 #### Frameworks
 
+[![Next.js](https://img.shields.io/static/v1?label=&message=Next.js&color=000000&logo=next.js&logoColor=FFFFFF)](https://nextjs.org)
 [![Nuxt.js](https://img.shields.io/static/v1?label=&message=Nuxt.js&color=00C58E&logo=nuxt.js&logoColor=FFFFFF)](https://nuxtjs.org)
 
 #### DevOps
 
 [![Git](https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=git&logoColor=FFFFFF)](https://git-scm.com)
-[![DigitalOcean](https://img.shields.io/static/v1?label=&message=DigitalOcean&color=0080FF&logo=digitalocean&logoColor=FFFFFF)](https://digitalocean.com)
+[![AWS](https://img.shields.io/static/v1?label=&message=AWS&color=232f3e&logo=amazon&logoColor=FFFFFF)](https://aws.amazon.com)
 [![Kubernetes](https://img.shields.io/static/v1?label=&message=Kubernetes&color=3D6DE6&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=4FA1EF&logo=docker&logoColor=white)](https://www.docker.com/)
 
