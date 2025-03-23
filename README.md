@@ -1,26 +1,35 @@
-<h1 align="center">👨🏻‍💻 Thomas Crombez<h1/>
+<h2 align="left">Hi 👋! I'm Thomas</h2>
 
-## ⚡ My Software Stack
+###
+
+I'm a full-stack software & hardware engineer from Belgium.
+
+More about me: [thomascrmbz.com](https://thomascrmbz.com)
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=thomascrmbz&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats-weld-delta-75.vercel.app/api?username=thomascrmbz&hide_title=true&show_icons=true&count_private=true&theme=onedark" height="150" alt="stats graph" />
+</div>
+
+<h2 align="left">⚡ My Software Stack</h2>
 
 #### Languages
 
 [![Go](https://img.shields.io/static/v1?label=&message=Go&color=00ADD8&logo=go&logoColor=FFFFFF)](https://golang.org)
-[![HTMX](https://img.shields.io/static/v1?label=&message=HTMX&color=3d72d7&logo=htmx&logoColor=FFFFFF)](https://htmx.org)
 [![React Native](https://img.shields.io/static/v1?label=&message=React%20Native&color=61dafb&logo=react&logoColor=FFFFFF)](https://reactnative.dev)
-[![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=ff751a&logo=HTML5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F1E05A&logo=javascript&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Zig](https://img.shields.io/static/v1?label=&message=Zig&color=EBA842&logo=zig&logoColor=FFFFFF)](https://ziglang.org/)
 [![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF)](https://isocpp.org/)
-[![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=007ACC&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-<img align='right' height="240px" src="https://github-readme-stats-weld-delta-75.vercel.app/api/top-langs?username=thomascrmbz&theme=onedark&size_weight=0.5&count_weight=0.5">
 
 #### Frameworks
 
+[![SvelteKit](https://img.shields.io/static/v1?label=&message=SvelteKit&color=eb5027&logo=svelte&logoColor=FFFFFF)](https://kit.svelte.dev)
 [![Next.js](https://img.shields.io/static/v1?label=&message=Next.js&color=000000&logo=next.js&logoColor=FFFFFF)](https://nextjs.org)
-[![Nuxt.js](https://img.shields.io/static/v1?label=&message=Nuxt.js&color=00C58E&logo=nuxt.js&logoColor=FFFFFF)](https://nuxtjs.org)
+[![Nuxt.js](https://img.shields.io/static/v1?label=&message=Nuxt.js&color=00C58E&logo=nuxt&logoColor=FFFFFF)](https://nuxtjs.org)
 
 #### DevOps
 
-[![Git](https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=git&logoColor=FFFFFF)](https://git-scm.com)
 [![AWS](https://img.shields.io/static/v1?label=&message=AWS&color=232f3e&logo=amazon&logoColor=FFFFFF)](https://aws.amazon.com)
 [![Kubernetes](https://img.shields.io/static/v1?label=&message=Kubernetes&color=3D6DE6&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=4FA1EF&logo=docker&logoColor=white)](https://www.docker.com/)
@@ -41,17 +50,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thomascrmbz&theme=onedark"/>  
-  <picture>
-  <source
-    srcset="https://github-readme-stats-weld-delta-75.vercel.app/api?username=thomascrmbz&hide_title=true&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-weld-delta-75.vercel.app/api?username=thomascrmbz&hide_title=true&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-weld-delta-75.vercel.app/api?username=thomascrmbz&hide_title=true&show_icons=true" />
-</picture>
-<p/>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thomascrmbz&theme=onedark&no-bg=true&no-frame=true&column=9&margin-w=15&margin-h=15"/>  
+<div/>
