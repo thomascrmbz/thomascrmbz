@@ -18,12 +18,12 @@ More about me: [thomascrmbz.com](https://thomascrmbz.com)
 #### Languages
 
 [![Go](https://img.shields.io/static/v1?label=&message=Go&color=00ADD8&logo=go&logoColor=FFFFFF)](https://golang.org)
-[![React Native](https://img.shields.io/static/v1?label=&message=React%20Native&color=61dafb&logo=react&logoColor=FFFFFF)](https://reactnative.dev)
 [![Zig](https://img.shields.io/static/v1?label=&message=Zig&color=EBA842&logo=zig&logoColor=FFFFFF)](https://ziglang.org/)
 [![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF)](https://isocpp.org/)
 
 #### Frameworks
 
+[![React Native](https://img.shields.io/static/v1?label=&message=React%20Native&color=61dafb&logo=react&logoColor=FFFFFF)](https://reactnative.dev)
 [![SvelteKit](https://img.shields.io/static/v1?label=&message=SvelteKit&color=eb5027&logo=svelte&logoColor=FFFFFF)](https://kit.svelte.dev)
 [![Next.js](https://img.shields.io/static/v1?label=&message=Next.js&color=000000&logo=next.js&logoColor=FFFFFF)](https://nextjs.org)
 [![Nuxt.js](https://img.shields.io/static/v1?label=&message=Nuxt.js&color=00C58E&logo=nuxt&logoColor=FFFFFF)](https://nuxtjs.org)
